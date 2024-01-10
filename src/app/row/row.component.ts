@@ -1,5 +1,5 @@
 import { CommonModule } from '@angular/common';
-import { Component, Input, OnChanges, SimpleChanges } from '@angular/core';
+import { Component, Input, SimpleChanges } from '@angular/core';
 import { SeatComponent } from '../seat/seat.component';
 import { Row, RowLetter, RowNumber } from '../seats';
 
